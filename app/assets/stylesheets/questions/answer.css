@@ -1,0 +1,23 @@
+.question {
+  width: 400px;
+  padding: 10px;
+  margin: 20px 0;
+  border-style: none none none solid;
+  border-width: 5px;
+  border-color: lightgray;
+}
+
+.answer {
+  width: 400px;
+  background-color: antiquewhite;
+  padding: 10px;
+  margin: 20px 0;
+  border-style: none none none solid;
+  border-width: 5px;
+  border-color: lightgray;
+}
+
+
+.line {
+  margin: 0;
+}
